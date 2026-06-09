@@ -1,7 +1,7 @@
 {
-  "name": "Slobot00",
+  "name": "Bot",
   "bot-account": {
-    "username": "ServerBot1",
+    "username": "Server",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "ItsBlixX2"
+      "password": "chalol78"
     },
     "anti-afk": {
       "enabled": true,
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 3000,
+      "repeat-delay": 1000,
       "messages": [
-        "Die = Ban",
-        "If you lose all ur harts your friend have to review u with some very rare items",
-        "Thanks For Playing !"
+        "Lets Steal a life",
+        "Thanks For Playing!",
+        "Die=Ban Revive=unban!"
       ]
     },
     "chat-log": true,
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": 
+    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
       "disconnect": true,
